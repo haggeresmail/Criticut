@@ -1,4 +1,3 @@
-# Criticut
 # **CritiCut — Critical Node Moderation with Edge Removal**
 
 CritiCut is an interactive **network resilience and vulnerability analysis platform** that identifies the most critical nodes and fragile connections in a graph, then intelligently removes risky edges to strengthen the network without breaking it.

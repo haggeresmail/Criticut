@@ -1,0 +1,56 @@
+altair==6.0.0
+attrs==25.4.0
+blinker==1.9.0
+Bottleneck @ file:///C:/miniconda3/conda-bld/bottleneck_1761938096667/work
+cachetools==6.2.4
+certifi==2026.1.4
+charset-normalizer==3.4.4
+click==8.3.1
+colorama==0.4.6
+contourpy @ file:///C:/b/abs_f2u2o_8s9g/croot/contourpy_1732540071787/work
+cycler @ file:///C:/Users/task_176606795043471/croot/cycler_1766068055428/work
+fonttools @ file:///C:/miniconda3/conda-bld/fonttools_1765445217350/work
+gitdb==4.0.12
+GitPython==3.1.46
+idna==3.11
+Jinja2==3.1.6
+jsonschema==4.26.0
+jsonschema-specifications==2025.9.1
+kiwisolver @ file:///C:/miniconda3/conda-bld/kiwisolver_1764159353779/work
+MarkupSafe==3.0.3
+matplotlib==3.10.8
+mkl-service==2.5.2
+mkl_fft @ file:///C:/miniconda3/conda-bld/mkl_fft_1761592981169/work
+mkl_random @ file:///C:/miniconda3/conda-bld/mkl_random_1761593075610/work
+narwhals==2.15.0
+networkx @ file:///C:/b/abs_b054htfn9t/croot/networkx_1737043671910/work
+numexpr @ file:///C:/miniconda3/conda-bld/numexpr_1762165723970/work
+numpy==2.2.6
+packaging==25.0
+pandas==2.3.3
+pillow==12.1.0
+plotly==6.5.2
+protobuf==6.33.4
+pyarrow==22.0.0
+pydeck==0.9.1
+pyparsing @ file:///C:/miniconda3/conda-bld/pyparsing_1763973898118/work
+PyQt6==6.9.1
+PyQt6_sip @ file:///C:/miniconda3/conda-bld/pyqt-split_1757511038965/work/pyqt_sip
+python-dateutil==2.9.0.post0
+pytz==2025.2
+referencing==0.37.0
+requests==2.32.5
+rpds-py==0.30.0
+scipy @ file:///C:/miniconda3/conda-bld/scipy_1759222090244/work/dist/scipy-1.15.3-cp310-cp310-win_amd64.whl#sha256=2c02ce5f7bc108a9dd2298fac421e55898c14864219396421ffe00419ec8c736
+sip @ file:///C:/b/abs_f6ow8vlbb7/croot/sip_1756224172742/work
+six==1.17.0
+smmap==5.0.2
+streamlit==1.53.0
+tenacity==9.1.2
+toml==0.10.2
+tomli @ file:///C:/Users/task_176829653256119/croot/tomli_1768296653758/work
+tornado==6.5.4
+typing_extensions==4.15.0
+tzdata==2025.3
+urllib3==2.6.3
+watchdog==6.0.0

